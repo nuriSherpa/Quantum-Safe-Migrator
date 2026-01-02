@@ -1,0 +1,38 @@
+{
+  "name": "quantum-safe-migrator",
+  "version": "1.0.0",
+  "description": "Audit and detect quantum-vulnerable cryptography in your code",
+  "main": "src/index.js",
+  "bin": {
+    "quantum-audit": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "audit": "node bin/cli.js audit"
+  },
+  "keywords": [
+    "quantum",
+    "cryptography",
+    "security",
+    "audit",
+    "post-quantum",
+    "crypto",
+    "RSA",
+    "ECDSA"
+  ],
+  "author": "Tendinuri Sherpa",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuriSherpa/Quantum-Safe-Migrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nuriSherpa/Quantum-Safe-Migrator/issues"
+  },
+  "homepage": "https://github.com/nuriSherpa/Quantum-Safe-Migrator#readme",
+  "type": "commonjs"
+}
