@@ -167,8 +167,8 @@ quantum-safe-migrator/
 
 - [NIST Post-Quantum Cryptography Project](https://csrc.nist.gov/projects/post-quantum-cryptography)
 - [Open Quantum Safe Library](https://openquantumsafe.org)
-- [Cloudflare's Post-Quantum Crypto](https://blog.cloudflare.com/post-quantum-crypto/)
-- [Google's Quantum Threat FAQ](https://safety.google/security/security-advancements/#quantum)
+- [Cloudflare's Post-Quantum Crypto](https://developers.cloudflare.com/ssl/post-quantum-cryptography)
+- [Google's Quantum Threat FAQ](https://cloud.google.com/security/resources/post-quantum-cryptography)
 
 ## 📄 License
 
